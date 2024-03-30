@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "P_Print_Collatz_Sequence", "P_Print_Collatz_Sequence.pyproj", "{6FA95BEC-36A0-4867-8FC1-2A04A38C7085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA95BEC-36A0-4867-8FC1-2A04A38C7085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA95BEC-36A0-4867-8FC1-2A04A38C7085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D6FB19-0E16-44C4-AD84-698B78D39354}
+	EndGlobalSection
+EndGlobal
